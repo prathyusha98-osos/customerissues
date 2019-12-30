@@ -1,0 +1,8 @@
+{
+    "name":"Edulization",
+    "description":"Adding sparks to the ignited minds",
+    "repository":"https://github.com/prathyusha98-osos/userissue",
+    "logo":"",
+    "keywords":["node","express","static"],
+    "image":"heroku/nodejs"
+}
